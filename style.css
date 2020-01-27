@@ -1,0 +1,13 @@
+body{
+background: url('img/typing.jpg');
+background-size:cover
+}
+
+.bg-dark{
+    background-color:rgba(0, 0, 0, 0.8)!important;
+    border-radius:5px;
+    border:1 px solid black
+}
+textarea{
+    width:100%
+}
